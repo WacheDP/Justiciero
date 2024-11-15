@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://drpix1gvh7atf"
+path="res://.godot/imported/building-corner-window-narrow.obj-ec57cc564714c7abe3fed08a178d745d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/building-corner-window-narrow.obj-ec57cc564714c7abe3fed08a178d745d.mesh"]
+
+source_file="res://Kenney/kenney_modular-buildings/Models/OBJ format/building-corner-window-narrow.obj"
+dest_files=["res://.godot/imported/building-corner-window-narrow.obj-ec57cc564714c7abe3fed08a178d745d.mesh", "res://.godot/imported/building-corner-window-narrow.obj-ec57cc564714c7abe3fed08a178d745d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

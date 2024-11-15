@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bp6ouknbw6n8"
+path="res://.godot/imported/lampRoundTable.obj-5b16bb760338daa7901cf550032571ea.mesh"
+
+[deps]
+
+files=["res://.godot/imported/lampRoundTable.obj-5b16bb760338daa7901cf550032571ea.mesh"]
+
+source_file="res://Kenney/kenney_furniture-kit/Models/OBJ format/lampRoundTable.obj"
+dest_files=["res://.godot/imported/lampRoundTable.obj-5b16bb760338daa7901cf550032571ea.mesh", "res://.godot/imported/lampRoundTable.obj-5b16bb760338daa7901cf550032571ea.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

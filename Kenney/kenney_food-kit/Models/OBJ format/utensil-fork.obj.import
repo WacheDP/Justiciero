@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://brmis1lfal08j"
+path="res://.godot/imported/utensil-fork.obj-91374e14d122b97ce448be68177ec98d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/utensil-fork.obj-91374e14d122b97ce448be68177ec98d.mesh"]
+
+source_file="res://Kenney/kenney_food-kit/Models/OBJ format/utensil-fork.obj"
+dest_files=["res://.godot/imported/utensil-fork.obj-91374e14d122b97ce448be68177ec98d.mesh", "res://.godot/imported/utensil-fork.obj-91374e14d122b97ce448be68177ec98d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

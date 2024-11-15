@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dr7q7xarypc0q"
+path="res://.godot/imported/hoodModern.obj-32ba83d8a5fad44574a549addd2b519c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/hoodModern.obj-32ba83d8a5fad44574a549addd2b519c.mesh"]
+
+source_file="res://Kenney/kenney_furniture-kit/Models/OBJ format/hoodModern.obj"
+dest_files=["res://.godot/imported/hoodModern.obj-32ba83d8a5fad44574a549addd2b519c.mesh", "res://.godot/imported/hoodModern.obj-32ba83d8a5fad44574a549addd2b519c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

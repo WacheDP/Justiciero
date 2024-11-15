@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cqomxdvq8i1ph"
+path="res://.godot/imported/garbage-truck.obj-d79983d12dd165d3a2b9d918646fdf72.mesh"
+
+[deps]
+
+files=["res://.godot/imported/garbage-truck.obj-d79983d12dd165d3a2b9d918646fdf72.mesh"]
+
+source_file="res://Kenney/kenney_car-kit/Models/OBJ format/garbage-truck.obj"
+dest_files=["res://.godot/imported/garbage-truck.obj-d79983d12dd165d3a2b9d918646fdf72.mesh", "res://.godot/imported/garbage-truck.obj-d79983d12dd165d3a2b9d918646fdf72.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

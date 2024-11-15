@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bj27scjjtowiv"
+path="res://.godot/imported/glass-wine.obj-ae0bec01325379f5a19bfc2ff136d178.mesh"
+
+[deps]
+
+files=["res://.godot/imported/glass-wine.obj-ae0bec01325379f5a19bfc2ff136d178.mesh"]
+
+source_file="res://Kenney/kenney_food-kit/Models/OBJ format/glass-wine.obj"
+dest_files=["res://.godot/imported/glass-wine.obj-ae0bec01325379f5a19bfc2ff136d178.mesh", "res://.godot/imported/glass-wine.obj-ae0bec01325379f5a19bfc2ff136d178.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

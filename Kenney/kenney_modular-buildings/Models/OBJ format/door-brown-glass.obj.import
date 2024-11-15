@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cq2cbvo70usjr"
+path="res://.godot/imported/door-brown-glass.obj-e3f45784b612fc22cea991cbb51b7a7f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/door-brown-glass.obj-e3f45784b612fc22cea991cbb51b7a7f.mesh"]
+
+source_file="res://Kenney/kenney_modular-buildings/Models/OBJ format/door-brown-glass.obj"
+dest_files=["res://.godot/imported/door-brown-glass.obj-e3f45784b612fc22cea991cbb51b7a7f.mesh", "res://.godot/imported/door-brown-glass.obj-e3f45784b612fc22cea991cbb51b7a7f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
