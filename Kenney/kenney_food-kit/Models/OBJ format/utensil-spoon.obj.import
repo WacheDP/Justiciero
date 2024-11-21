@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bu0kwkcsm11vs"
+path="res://.godot/imported/utensil-spoon.obj-4f2571f2b1e7fd76ae50a3d6d9a69247.mesh"
+
+[deps]
+
+files=["res://.godot/imported/utensil-spoon.obj-4f2571f2b1e7fd76ae50a3d6d9a69247.mesh"]
+
+source_file="res://Kenney/kenney_food-kit/Models/OBJ format/utensil-spoon.obj"
+dest_files=["res://.godot/imported/utensil-spoon.obj-4f2571f2b1e7fd76ae50a3d6d9a69247.mesh", "res://.godot/imported/utensil-spoon.obj-4f2571f2b1e7fd76ae50a3d6d9a69247.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

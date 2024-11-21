@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dett6v8v6qhy5"
+path="res://.godot/imported/bowl-soup.obj-3a3d8af3d5fec971b02e3ffbb28ecfd0.mesh"
+
+[deps]
+
+files=["res://.godot/imported/bowl-soup.obj-3a3d8af3d5fec971b02e3ffbb28ecfd0.mesh"]
+
+source_file="res://Kenney/kenney_food-kit/Models/OBJ format/bowl-soup.obj"
+dest_files=["res://.godot/imported/bowl-soup.obj-3a3d8af3d5fec971b02e3ffbb28ecfd0.mesh", "res://.godot/imported/bowl-soup.obj-3a3d8af3d5fec971b02e3ffbb28ecfd0.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

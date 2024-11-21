@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ccyeywcmmo8fq"
+path="res://.godot/imported/bread.obj-d776a646619f011a5507671f835bf00b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/bread.obj-d776a646619f011a5507671f835bf00b.mesh"]
+
+source_file="res://Kenney/kenney_food-kit/Models/OBJ format/bread.obj"
+dest_files=["res://.godot/imported/bread.obj-d776a646619f011a5507671f835bf00b.mesh", "res://.godot/imported/bread.obj-d776a646619f011a5507671f835bf00b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

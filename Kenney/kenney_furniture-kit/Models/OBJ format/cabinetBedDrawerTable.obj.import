@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b8kv2o1vn3qgk"
+path="res://.godot/imported/cabinetBedDrawerTable.obj-b7400ec7caca93f83ef30efeda96aa4c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/cabinetBedDrawerTable.obj-b7400ec7caca93f83ef30efeda96aa4c.mesh"]
+
+source_file="res://Kenney/kenney_furniture-kit/Models/OBJ format/cabinetBedDrawerTable.obj"
+dest_files=["res://.godot/imported/cabinetBedDrawerTable.obj-b7400ec7caca93f83ef30efeda96aa4c.mesh", "res://.godot/imported/cabinetBedDrawerTable.obj-b7400ec7caca93f83ef30efeda96aa4c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

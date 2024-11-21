@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://e0waev3f0n1w"
+path="res://.godot/imported/door-white-glass.obj-251ba7286e6a74b30cbbeead50e023fe.mesh"
+
+[deps]
+
+files=["res://.godot/imported/door-white-glass.obj-251ba7286e6a74b30cbbeead50e023fe.mesh"]
+
+source_file="res://Kenney/kenney_modular-buildings/Models/OBJ format/door-white-glass.obj"
+dest_files=["res://.godot/imported/door-white-glass.obj-251ba7286e6a74b30cbbeead50e023fe.mesh", "res://.godot/imported/door-white-glass.obj-251ba7286e6a74b30cbbeead50e023fe.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

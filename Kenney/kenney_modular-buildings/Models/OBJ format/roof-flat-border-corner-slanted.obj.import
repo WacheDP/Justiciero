@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dhge71adoky8p"
+path="res://.godot/imported/roof-flat-border-corner-slanted.obj-4af81f7d02f32a4e66d47312050b86e0.mesh"
+
+[deps]
+
+files=["res://.godot/imported/roof-flat-border-corner-slanted.obj-4af81f7d02f32a4e66d47312050b86e0.mesh"]
+
+source_file="res://Kenney/kenney_modular-buildings/Models/OBJ format/roof-flat-border-corner-slanted.obj"
+dest_files=["res://.godot/imported/roof-flat-border-corner-slanted.obj-4af81f7d02f32a4e66d47312050b86e0.mesh", "res://.godot/imported/roof-flat-border-corner-slanted.obj-4af81f7d02f32a4e66d47312050b86e0.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

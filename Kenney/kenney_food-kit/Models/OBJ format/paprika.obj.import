@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bb1s3p1wtlqfw"
+path="res://.godot/imported/paprika.obj-52ee0bd0e127d8ffc23fe4879da46160.mesh"
+
+[deps]
+
+files=["res://.godot/imported/paprika.obj-52ee0bd0e127d8ffc23fe4879da46160.mesh"]
+
+source_file="res://Kenney/kenney_food-kit/Models/OBJ format/paprika.obj"
+dest_files=["res://.godot/imported/paprika.obj-52ee0bd0e127d8ffc23fe4879da46160.mesh", "res://.godot/imported/paprika.obj-52ee0bd0e127d8ffc23fe4879da46160.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

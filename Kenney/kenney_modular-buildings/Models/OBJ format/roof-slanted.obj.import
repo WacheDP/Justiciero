@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://8hqfhm0ytl5l"
+path="res://.godot/imported/roof-slanted.obj-51cccc4cd321916aed7f74ac1b1c2577.mesh"
+
+[deps]
+
+files=["res://.godot/imported/roof-slanted.obj-51cccc4cd321916aed7f74ac1b1c2577.mesh"]
+
+source_file="res://Kenney/kenney_modular-buildings/Models/OBJ format/roof-slanted.obj"
+dest_files=["res://.godot/imported/roof-slanted.obj-51cccc4cd321916aed7f74ac1b1c2577.mesh", "res://.godot/imported/roof-slanted.obj-51cccc4cd321916aed7f74ac1b1c2577.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

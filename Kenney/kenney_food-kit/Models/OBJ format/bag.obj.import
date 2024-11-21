@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://claqj5ohl3bpo"
+path="res://.godot/imported/bag.obj-66adb6f071aeceeff08b9681f62b2098.mesh"
+
+[deps]
+
+files=["res://.godot/imported/bag.obj-66adb6f071aeceeff08b9681f62b2098.mesh"]
+
+source_file="res://Kenney/kenney_food-kit/Models/OBJ format/bag.obj"
+dest_files=["res://.godot/imported/bag.obj-66adb6f071aeceeff08b9681f62b2098.mesh", "res://.godot/imported/bag.obj-66adb6f071aeceeff08b9681f62b2098.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

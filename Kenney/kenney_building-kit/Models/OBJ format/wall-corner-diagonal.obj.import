@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://hc18cg17rrsq"
+path="res://.godot/imported/wall-corner-diagonal.obj-c9b63df3c3d28f0fc0953e5ee5370162.mesh"
+
+[deps]
+
+files=["res://.godot/imported/wall-corner-diagonal.obj-c9b63df3c3d28f0fc0953e5ee5370162.mesh"]
+
+source_file="res://Kenney/kenney_building-kit/Models/OBJ format/wall-corner-diagonal.obj"
+dest_files=["res://.godot/imported/wall-corner-diagonal.obj-c9b63df3c3d28f0fc0953e5ee5370162.mesh", "res://.godot/imported/wall-corner-diagonal.obj-c9b63df3c3d28f0fc0953e5ee5370162.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

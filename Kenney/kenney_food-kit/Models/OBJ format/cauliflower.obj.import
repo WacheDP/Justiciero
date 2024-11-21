@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c1l0ehv4exhvr"
+path="res://.godot/imported/cauliflower.obj-c181e6f07ec5584eb606fd51eb46021e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/cauliflower.obj-c181e6f07ec5584eb606fd51eb46021e.mesh"]
+
+source_file="res://Kenney/kenney_food-kit/Models/OBJ format/cauliflower.obj"
+dest_files=["res://.godot/imported/cauliflower.obj-c181e6f07ec5584eb606fd51eb46021e.mesh", "res://.godot/imported/cauliflower.obj-c181e6f07ec5584eb606fd51eb46021e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

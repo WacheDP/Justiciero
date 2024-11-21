@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dntun2ufa84dd"
+path="res://.godot/imported/roof-flat-side.obj-806b6f795cc5b5fc4bc46a251f1fce4f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/roof-flat-side.obj-806b6f795cc5b5fc4bc46a251f1fce4f.mesh"]
+
+source_file="res://Kenney/kenney_building-kit/Models/OBJ format/roof-flat-side.obj"
+dest_files=["res://.godot/imported/roof-flat-side.obj-806b6f795cc5b5fc4bc46a251f1fce4f.mesh", "res://.godot/imported/roof-flat-side.obj-806b6f795cc5b5fc4bc46a251f1fce4f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

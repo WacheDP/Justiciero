@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://br7hi5fetgxgr"
+path="res://.godot/imported/loungeSofa.obj-6efe389de8f83c5b7390e2d67f9901d0.mesh"
+
+[deps]
+
+files=["res://.godot/imported/loungeSofa.obj-6efe389de8f83c5b7390e2d67f9901d0.mesh"]
+
+source_file="res://Kenney/kenney_furniture-kit/Models/OBJ format/loungeSofa.obj"
+dest_files=["res://.godot/imported/loungeSofa.obj-6efe389de8f83c5b7390e2d67f9901d0.mesh", "res://.godot/imported/loungeSofa.obj-6efe389de8f83c5b7390e2d67f9901d0.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

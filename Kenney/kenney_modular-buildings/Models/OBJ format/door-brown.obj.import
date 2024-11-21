@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://vg2wa1o6f5h"
+path="res://.godot/imported/door-brown.obj-cd534a004ed6cba0bb4bb223d1e3762c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/door-brown.obj-cd534a004ed6cba0bb4bb223d1e3762c.mesh"]
+
+source_file="res://Kenney/kenney_modular-buildings/Models/OBJ format/door-brown.obj"
+dest_files=["res://.godot/imported/door-brown.obj-cd534a004ed6cba0bb4bb223d1e3762c.mesh", "res://.godot/imported/door-brown.obj-cd534a004ed6cba0bb4bb223d1e3762c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
