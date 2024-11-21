@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c2e4ydevi3amf"
+path="res://.godot/imported/meat-cooked.obj-90a05735ccdd5ac3e5007752b041c6ec.mesh"
+
+[deps]
+
+files=["res://.godot/imported/meat-cooked.obj-90a05735ccdd5ac3e5007752b041c6ec.mesh"]
+
+source_file="res://Kenney/kenney_food-kit/Models/OBJ format/meat-cooked.obj"
+dest_files=["res://.godot/imported/meat-cooked.obj-90a05735ccdd5ac3e5007752b041c6ec.mesh", "res://.godot/imported/meat-cooked.obj-90a05735ccdd5ac3e5007752b041c6ec.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

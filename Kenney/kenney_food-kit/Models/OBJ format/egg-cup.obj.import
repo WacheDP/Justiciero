@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://tt2xxai85ura"
+path="res://.godot/imported/egg-cup.obj-a4852dae143e6f0b8aa76bfd25b59fb6.mesh"
+
+[deps]
+
+files=["res://.godot/imported/egg-cup.obj-a4852dae143e6f0b8aa76bfd25b59fb6.mesh"]
+
+source_file="res://Kenney/kenney_food-kit/Models/OBJ format/egg-cup.obj"
+dest_files=["res://.godot/imported/egg-cup.obj-a4852dae143e6f0b8aa76bfd25b59fb6.mesh", "res://.godot/imported/egg-cup.obj-a4852dae143e6f0b8aa76bfd25b59fb6.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

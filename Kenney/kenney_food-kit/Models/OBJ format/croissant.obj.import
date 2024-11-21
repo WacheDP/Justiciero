@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://befshnrlfpr8y"
+path="res://.godot/imported/croissant.obj-64737b93383fc3cdae9f428f9b92c0cb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/croissant.obj-64737b93383fc3cdae9f428f9b92c0cb.mesh"]
+
+source_file="res://Kenney/kenney_food-kit/Models/OBJ format/croissant.obj"
+dest_files=["res://.godot/imported/croissant.obj-64737b93383fc3cdae9f428f9b92c0cb.mesh", "res://.godot/imported/croissant.obj-64737b93383fc3cdae9f428f9b92c0cb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

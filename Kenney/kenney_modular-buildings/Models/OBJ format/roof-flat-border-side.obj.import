@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d1o8wgd5kxovu"
+path="res://.godot/imported/roof-flat-border-side.obj-2715adb5a09f32d68bfdcf3075d34a2b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/roof-flat-border-side.obj-2715adb5a09f32d68bfdcf3075d34a2b.mesh"]
+
+source_file="res://Kenney/kenney_modular-buildings/Models/OBJ format/roof-flat-border-side.obj"
+dest_files=["res://.godot/imported/roof-flat-border-side.obj-2715adb5a09f32d68bfdcf3075d34a2b.mesh", "res://.godot/imported/roof-flat-border-side.obj-2715adb5a09f32d68bfdcf3075d34a2b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

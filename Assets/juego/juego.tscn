@@ -1,0 +1,61 @@
+[gd_scene load_steps=12 format=3 uid="uid://tl6et8ja0v6l"]
+
+[ext_resource type="Texture2D" uid="uid://co5ti3rgjfdw4" path="res://WhatsApp Image 2024-11-14 at 3.44.37 PM.jpeg" id="1_buw3h"]
+[ext_resource type="Script" path="res://juego/juego.gd" id="1_vktef"]
+[ext_resource type="Texture2D" uid="uid://dsymksfbc4y4t" path="res://2D_design_of_a_judge_character_with_sprites_for_a_game_in_Godot-removebg-preview.png" id="2_fs6ry"]
+[ext_resource type="Texture2D" uid="uid://djk00gnp12iq2" path="res://d2.jpeg" id="3_s7hvq"]
+[ext_resource type="Texture2D" uid="uid://bfognc4bd53mp" path="res://policia.png" id="4_spmnw"]
+[ext_resource type="Texture2D" uid="uid://dr7sggdm1d2fk" path="res://th-removebg-preview (1).png" id="5_cp0cb"]
+[ext_resource type="Script" path="res://juego/criminal.gd" id="6_bp1ik"]
+
+[sub_resource type="Animation" id="Animation_p1ol3"]
+resource_name = "movimiento"
+length = 3.0
+
+[sub_resource type="Animation" id="Animation_xi5aq"]
+length = 0.001
+
+[sub_resource type="Animation" id="Animation_03gxv"]
+resource_name = "Movimiento"
+length = 3.0
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_b4vn5"]
+_data = {
+"Movimiento": SubResource("Animation_03gxv"),
+"RESET": SubResource("Animation_xi5aq"),
+"movimiento": SubResource("Animation_p1ol3")
+}
+
+[node name="tribunal" type="Node2D"]
+script = ExtResource("1_vktef")
+
+[node name="escenario" type="Sprite2D" parent="."]
+position = Vector2(565.25, 313.5)
+scale = Vector2(1.23193, 0.737305)
+texture = ExtResource("1_buw3h")
+
+[node name="Juez" type="Sprite2D" parent="."]
+position = Vector2(581.5, 240)
+scale = Vector2(0.369919, 0.436548)
+texture = ExtResource("2_fs6ry")
+
+[node name="Mesa" type="Sprite2D" parent="."]
+position = Vector2(577, 292)
+scale = Vector2(1.2, 1)
+texture = ExtResource("3_s7hvq")
+
+[node name="Policia" type="Sprite2D" parent="."]
+position = Vector2(279.25, 332.5)
+scale = Vector2(0.331, 0.322)
+texture = ExtResource("4_spmnw")
+
+[node name="Criminal" type="Sprite2D" parent="."]
+position = Vector2(195, 834)
+scale = Vector2(0.318, 0.372)
+texture = ExtResource("5_cp0cb")
+script = ExtResource("6_bp1ik")
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="Criminal"]
+libraries = {
+"": SubResource("AnimationLibrary_b4vn5")
+}

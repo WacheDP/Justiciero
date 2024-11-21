@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d3d8wv2l7w5yd"
+path="res://.godot/imported/cake.obj-bcf299960075dc5e9d71d384bec0b3e6.mesh"
+
+[deps]
+
+files=["res://.godot/imported/cake.obj-bcf299960075dc5e9d71d384bec0b3e6.mesh"]
+
+source_file="res://Kenney/kenney_food-kit/Models/OBJ format/cake.obj"
+dest_files=["res://.godot/imported/cake.obj-bcf299960075dc5e9d71d384bec0b3e6.mesh", "res://.godot/imported/cake.obj-bcf299960075dc5e9d71d384bec0b3e6.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://6akxwyl86k74"
+path="res://.godot/imported/roof-flat-center.obj-899fc7788b234b1a0a8f9a3683e28798.mesh"
+
+[deps]
+
+files=["res://.godot/imported/roof-flat-center.obj-899fc7788b234b1a0a8f9a3683e28798.mesh"]
+
+source_file="res://Kenney/kenney_modular-buildings/Models/OBJ format/roof-flat-center.obj"
+dest_files=["res://.godot/imported/roof-flat-center.obj-899fc7788b234b1a0a8f9a3683e28798.mesh", "res://.godot/imported/roof-flat-center.obj-899fc7788b234b1a0a8f9a3683e28798.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cjccwnc3hniut"
+path="res://.godot/imported/pot-stew-lid.obj-909c6d7a9fe580e6a335249f17da6119.mesh"
+
+[deps]
+
+files=["res://.godot/imported/pot-stew-lid.obj-909c6d7a9fe580e6a335249f17da6119.mesh"]
+
+source_file="res://Kenney/kenney_food-kit/Models/OBJ format/pot-stew-lid.obj"
+dest_files=["res://.godot/imported/pot-stew-lid.obj-909c6d7a9fe580e6a335249f17da6119.mesh", "res://.godot/imported/pot-stew-lid.obj-909c6d7a9fe580e6a335249f17da6119.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

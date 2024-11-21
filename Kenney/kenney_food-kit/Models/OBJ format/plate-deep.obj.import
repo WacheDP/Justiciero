@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://crefhe42shnu7"
+path="res://.godot/imported/plate-deep.obj-c6e3c657b3357cfd11288b341a1d1991.mesh"
+
+[deps]
+
+files=["res://.godot/imported/plate-deep.obj-c6e3c657b3357cfd11288b341a1d1991.mesh"]
+
+source_file="res://Kenney/kenney_food-kit/Models/OBJ format/plate-deep.obj"
+dest_files=["res://.godot/imported/plate-deep.obj-c6e3c657b3357cfd11288b341a1d1991.mesh", "res://.godot/imported/plate-deep.obj-c6e3c657b3357cfd11288b341a1d1991.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

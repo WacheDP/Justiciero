@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bm4fixb5jghff"
+path="res://.godot/imported/door-white.obj-4d7976cd7023c8f68eb73082b70aaafa.mesh"
+
+[deps]
+
+files=["res://.godot/imported/door-white.obj-4d7976cd7023c8f68eb73082b70aaafa.mesh"]
+
+source_file="res://Kenney/kenney_modular-buildings/Models/OBJ format/door-white.obj"
+dest_files=["res://.godot/imported/door-white.obj-4d7976cd7023c8f68eb73082b70aaafa.mesh", "res://.godot/imported/door-white.obj-4d7976cd7023c8f68eb73082b70aaafa.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

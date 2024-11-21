@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bqta2tr5ghq0h"
+path="res://.godot/imported/pizza-cutter.obj-0057b81c4571989fc855907e1ff5fbbf.mesh"
+
+[deps]
+
+files=["res://.godot/imported/pizza-cutter.obj-0057b81c4571989fc855907e1ff5fbbf.mesh"]
+
+source_file="res://Kenney/kenney_food-kit/Models/OBJ format/pizza-cutter.obj"
+dest_files=["res://.godot/imported/pizza-cutter.obj-0057b81c4571989fc855907e1ff5fbbf.mesh", "res://.godot/imported/pizza-cutter.obj-0057b81c4571989fc855907e1ff5fbbf.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
