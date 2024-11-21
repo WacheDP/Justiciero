@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bipxt3dsq7j8k"
+path="res://.godot/imported/debris-door-window.obj-ea2fb943c25a57c4104d38db60df56a8.mesh"
+
+[deps]
+
+files=["res://.godot/imported/debris-door-window.obj-ea2fb943c25a57c4104d38db60df56a8.mesh"]
+
+source_file="res://Kenney/kenney_car-kit/Models/OBJ format/debris-door-window.obj"
+dest_files=["res://.godot/imported/debris-door-window.obj-ea2fb943c25a57c4104d38db60df56a8.mesh", "res://.godot/imported/debris-door-window.obj-ea2fb943c25a57c4104d38db60df56a8.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

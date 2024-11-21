@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://efe1ffr3nxnw"
+path="res://.godot/imported/shower.obj-a2f307a6ccc530f1d3489471e5a3ac12.mesh"
+
+[deps]
+
+files=["res://.godot/imported/shower.obj-a2f307a6ccc530f1d3489471e5a3ac12.mesh"]
+
+source_file="res://Kenney/kenney_furniture-kit/Models/OBJ format/shower.obj"
+dest_files=["res://.godot/imported/shower.obj-a2f307a6ccc530f1d3489471e5a3ac12.mesh", "res://.godot/imported/shower.obj-a2f307a6ccc530f1d3489471e5a3ac12.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

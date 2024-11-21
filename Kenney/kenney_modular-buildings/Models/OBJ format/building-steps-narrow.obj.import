@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://x7i5bfevuu5j"
+path="res://.godot/imported/building-steps-narrow.obj-9fdfeaa5c6f95c5da85775e23d507211.mesh"
+
+[deps]
+
+files=["res://.godot/imported/building-steps-narrow.obj-9fdfeaa5c6f95c5da85775e23d507211.mesh"]
+
+source_file="res://Kenney/kenney_modular-buildings/Models/OBJ format/building-steps-narrow.obj"
+dest_files=["res://.godot/imported/building-steps-narrow.obj-9fdfeaa5c6f95c5da85775e23d507211.mesh", "res://.godot/imported/building-steps-narrow.obj-9fdfeaa5c6f95c5da85775e23d507211.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

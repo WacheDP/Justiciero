@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cm1bw1ve2tjvl"
+path="res://.godot/imported/wheel-dark.obj-7e1bda20956cf0fcf855d862667ede2d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/wheel-dark.obj-7e1bda20956cf0fcf855d862667ede2d.mesh"]
+
+source_file="res://Kenney/kenney_car-kit/Models/OBJ format/wheel-dark.obj"
+dest_files=["res://.godot/imported/wheel-dark.obj-7e1bda20956cf0fcf855d862667ede2d.mesh", "res://.godot/imported/wheel-dark.obj-7e1bda20956cf0fcf855d862667ede2d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

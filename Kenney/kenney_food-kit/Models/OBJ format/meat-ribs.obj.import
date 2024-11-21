@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bq558t6txfjli"
+path="res://.godot/imported/meat-ribs.obj-8020af61104b0443c6691e901d44a2de.mesh"
+
+[deps]
+
+files=["res://.godot/imported/meat-ribs.obj-8020af61104b0443c6691e901d44a2de.mesh"]
+
+source_file="res://Kenney/kenney_food-kit/Models/OBJ format/meat-ribs.obj"
+dest_files=["res://.godot/imported/meat-ribs.obj-8020af61104b0443c6691e901d44a2de.mesh", "res://.godot/imported/meat-ribs.obj-8020af61104b0443c6691e901d44a2de.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

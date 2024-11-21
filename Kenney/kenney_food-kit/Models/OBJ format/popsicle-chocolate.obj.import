@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://s8ewk7fd4bw7"
+path="res://.godot/imported/popsicle-chocolate.obj-488a3a399f820f22391b6207df0d4a6c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/popsicle-chocolate.obj-488a3a399f820f22391b6207df0d4a6c.mesh"]
+
+source_file="res://Kenney/kenney_food-kit/Models/OBJ format/popsicle-chocolate.obj"
+dest_files=["res://.godot/imported/popsicle-chocolate.obj-488a3a399f820f22391b6207df0d4a6c.mesh", "res://.godot/imported/popsicle-chocolate.obj-488a3a399f820f22391b6207df0d4a6c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

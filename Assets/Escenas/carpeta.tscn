@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://d4dngx2sdo5bb"]
+
+[ext_resource type="Texture2D" uid="uid://tw4qtfkm5dyi" path="res://Assets/Mesa_Trabajo/CarpetaF-Base.png" id="1_drvpr"]
+
+[node name="Carpeta" type="Node2D"]
+
+[node name="Imagen" type="Sprite2D" parent="."]
+position = Vector2(103, 120)
+scale = Vector2(6.39062, 7.53125)
+texture = ExtResource("1_drvpr")

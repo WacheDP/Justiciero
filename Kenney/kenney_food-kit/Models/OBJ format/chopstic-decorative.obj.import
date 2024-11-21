@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://h5h08lojb1af"
+path="res://.godot/imported/chopstic-decorative.obj-0ac8c389aee0a411c60bb4c6b6ce59b2.mesh"
+
+[deps]
+
+files=["res://.godot/imported/chopstic-decorative.obj-0ac8c389aee0a411c60bb4c6b6ce59b2.mesh"]
+
+source_file="res://Kenney/kenney_food-kit/Models/OBJ format/chopstic-decorative.obj"
+dest_files=["res://.godot/imported/chopstic-decorative.obj-0ac8c389aee0a411c60bb4c6b6ce59b2.mesh", "res://.godot/imported/chopstic-decorative.obj-0ac8c389aee0a411c60bb4c6b6ce59b2.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

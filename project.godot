@@ -10,7 +10,17 @@ config_version=5
 
 [application]
 
-config/name="Menu principal"
+config/name="Justiciero"
 run/main_scene="res://Scenes/menu_Options.tscn"
-config/features=PackedStringArray("4.3", "Forward Plus")
+config/features=PackedStringArray("4.3", "GL Compatibility")
 config/icon="res://icon.svg"
+
+[display]
+
+window/size/mode=3
+
+[rendering]
+
+textures/canvas_textures/default_texture_filter=0
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"

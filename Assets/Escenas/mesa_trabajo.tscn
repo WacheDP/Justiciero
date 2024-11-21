@@ -1,0 +1,14 @@
+[gd_scene load_steps=3 format=3 uid="uid://cuenugyhu4scn"]
+
+[ext_resource type="Texture2D" uid="uid://dnf1bo30nn37c" path="res://Assets/Mesa_Trabajo/Mesa_Trabajo.png" id="1_45knu"]
+[ext_resource type="PackedScene" uid="uid://d4dngx2sdo5bb" path="res://Assets/Escenas/carpeta.tscn" id="2_7if61"]
+
+[node name="Escritorio" type="Node2D"]
+
+[node name="Imagen" type="Sprite2D" parent="."]
+position = Vector2(349, 234)
+scale = Vector2(21.7813, 14.4063)
+texture = ExtResource("1_45knu")
+
+[node name="Carpeta" parent="." instance=ExtResource("2_7if61")]
+position = Vector2(144, 134)

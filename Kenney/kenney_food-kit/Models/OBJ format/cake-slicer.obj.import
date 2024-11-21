@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dov1nyr1y4w6w"
+path="res://.godot/imported/cake-slicer.obj-cee2ab85817539ad963f681871caa15d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/cake-slicer.obj-cee2ab85817539ad963f681871caa15d.mesh"]
+
+source_file="res://Kenney/kenney_food-kit/Models/OBJ format/cake-slicer.obj"
+dest_files=["res://.godot/imported/cake-slicer.obj-cee2ab85817539ad963f681871caa15d.mesh", "res://.godot/imported/cake-slicer.obj-cee2ab85817539ad963f681871caa15d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bpvo3niobg7o8"
+path="res://.godot/imported/maki-salmon.obj-d12eaa3cb005dcc90a04225c8edb2556.mesh"
+
+[deps]
+
+files=["res://.godot/imported/maki-salmon.obj-d12eaa3cb005dcc90a04225c8edb2556.mesh"]
+
+source_file="res://Kenney/kenney_food-kit/Models/OBJ format/maki-salmon.obj"
+dest_files=["res://.godot/imported/maki-salmon.obj-d12eaa3cb005dcc90a04225c8edb2556.mesh", "res://.godot/imported/maki-salmon.obj-d12eaa3cb005dcc90a04225c8edb2556.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

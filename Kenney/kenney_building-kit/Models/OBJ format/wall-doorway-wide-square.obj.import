@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bl1gyvcdj8mm3"
+path="res://.godot/imported/wall-doorway-wide-square.obj-6b234cba1e5c03cd96ce7468a51ee188.mesh"
+
+[deps]
+
+files=["res://.godot/imported/wall-doorway-wide-square.obj-6b234cba1e5c03cd96ce7468a51ee188.mesh"]
+
+source_file="res://Kenney/kenney_building-kit/Models/OBJ format/wall-doorway-wide-square.obj"
+dest_files=["res://.godot/imported/wall-doorway-wide-square.obj-6b234cba1e5c03cd96ce7468a51ee188.mesh", "res://.godot/imported/wall-doorway-wide-square.obj-6b234cba1e5c03cd96ce7468a51ee188.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

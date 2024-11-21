@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://mir1dj38nv7l"
+path="res://.godot/imported/advocado-half.obj-96d592329854829828ba100a31b9729a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/advocado-half.obj-96d592329854829828ba100a31b9729a.mesh"]
+
+source_file="res://Kenney/kenney_food-kit/Models/OBJ format/advocado-half.obj"
+dest_files=["res://.godot/imported/advocado-half.obj-96d592329854829828ba100a31b9729a.mesh", "res://.godot/imported/advocado-half.obj-96d592329854829828ba100a31b9729a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
